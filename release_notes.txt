@@ -1,0 +1,36 @@
+CANgineBerry Software Release Notes
+www.cangineberry.com
+Embedded Systems Academy GmbH
+
+Version 1.07 of 03-MAY-2019
+===========================
+- Firmware COIA-BEDS updated to V1.5
+- Firmware COIA-MGR updated to V1.7
+- Fixed missing default node ID when no configuration is programmed
+  in COIA-BEDS and COIA-MGR apps
+
+Version 1.06 of 29-APR-2019
+===========================
+- Firmware COIA-BEDS updated to V1.4
+- Firmware COIA-MGR updated to V1.6
+- Added CAN-RS232 command support to COIA-BEDS
+- Added CANcrypt support to COIA-BEDS
+- Improved manual PDO triggering for both versions [5F01h,0Ch]
+- Updated COIA utility to V1.77, [1018h,4] not mandatory
+
+Version 1.05 of 16-OKT-2018
+===========================
+- Firmware COIA-BEDS updated to V1.3
+- Firmware COIA-MGR updated to V1.5
+- Improved handling of generic CAN messages for both firmware options
+- Enable / Disable by [5F01h,0Bh]
+- Read/Write using [5F0Ch,xx]
+
+Version 1.04 of 16-OKT-2018
+===========================
+- Firmware COIA-BEDS updated to V1.2
+- Firmware COIA-MGR updated to V1.4
+- Various bootloader improvements and fixes
+
+
+
